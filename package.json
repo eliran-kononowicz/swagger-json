@@ -21,7 +21,7 @@
     "all": true
   },
   "dependencies": {
-    "joi-to-swagger": "^3.0.0"
+    "joi-to-swagger": "^3.1.0"
   },
   "devDependencies": {
     "body-parser": "^1.18.3",
